@@ -1,0 +1,23 @@
+{
+  "name": "bool-refactor-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leontrolski/bool-refactor-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leontrolski/bool-refactor-ts/issues"
+  },
+  "homepage": "https://github.com/leontrolski/bool-refactor-ts#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
